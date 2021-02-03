@@ -1,24 +1,20 @@
 # gwcqp
 
-## Project setup
-```
+
+## Firebase CLI install
+npm install -g firebase-tools
+
+### Login with Goole Account
+firebase login
+
+### Project setup
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+### Replace credential with you firebase project credential
+https://github.com/ridystudiomy/NGO-Content-Management-Web/blob/main/src/firebase/init.js
+
+### To run the application
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
