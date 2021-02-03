@@ -4,7 +4,7 @@
 ## Firebase CLI install
 npm install -g firebase-tools
 
-### Login with Goole Account
+### Login with Google Account
 firebase login
 
 ### Project setup
