@@ -61,7 +61,7 @@ Vue.use(LoadScript);
 
 import * as VueGoogleMaps from "vue2-google-maps";
 Vue.use(VueGoogleMaps, {
-  load: { key:"AIzaSyDb6wrasmzmdG4bVIhmduYs_9gTC5PT-Ic",
+  load: { key:"API-KEY HERE",
   libraries: 'places'
 },
 installComponents: true
