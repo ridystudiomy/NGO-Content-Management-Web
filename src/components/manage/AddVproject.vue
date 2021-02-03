@@ -216,7 +216,7 @@ export default {
             lat +
             "," +
             long +
-            "&key=AIzaSyDb6wrasmzmdG4bVIhmduYs_9gTC5PT-Ic"
+            "&key=API KEY HERE"
         )
         .then((response) => {
           if (response.data.error_message) {
