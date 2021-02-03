@@ -208,7 +208,7 @@ created(){
             lat +
             "," +
             long +
-            "&key=AIzaSyDb6wrasmzmdG4bVIhmduYs_9gTC5PT-Ic"
+            "&key=api key here"
         )
         .then((response) => {
           if (response.data.error_message) {
